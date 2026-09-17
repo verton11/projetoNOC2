@@ -162,7 +162,7 @@ No `SRV-LINUX01`, SSH e Apache foram instalados, habilitados e testados local e 
 - ss -lntp
 - curl
 
-![Fase 05 — Serviços SSH e HTTP](imagens/fase05-servicos.png)
+![Fase 05 — Serviços SSH e HTTP](imagens/server04.jpg)
 
 ---
 
