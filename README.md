@@ -114,8 +114,9 @@ Os três servidores receberam IP estático e foram validados com `ip -br addr`, 
 - ping entre VMs
 - resolução DNS
 
-![Fase 03 — IP estático e conectividade](imagens/fase03-conectividade.png)
-
+![Fase 03 — IP estático e conectividade](imagens/grafana02.jpg)
+![Fase 03 — IP estático e conectividade](imagens/zabbix02.jpg)
+![Fase 03 — IP estático e conectividade](imagens/server02.jpg)
 ---
 
 ## Fase 04 — Preparação Linux
