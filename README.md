@@ -23,10 +23,10 @@ Implementar e documentar um laboratório de **Network Operations Center (NOC)** 
 
 | Hostname | IP | Função |
 |---|---:|---|
-| `ZABBIX01` | `10.20.30.10` | Zabbix Server + MariaDB + Frontend |
-| `GRAFANA01` | `10.20.30.20` | Grafana |
-| `SRV-LINUX01` | `10.20.30.30` | Servidor monitorado |
-| Gateway | `10.20.30.1` | Saída da rede do laboratório |
+| `ZABBIX01` | `10.110.102.50` | Zabbix Server + MariaDB + Frontend |
+| `GRAFANA01` | `10.110.102.51` | Grafana |
+| `SRV-LINUX01` | `10.110.102.52` | Servidor monitorado |
+| Gateway | `10.110.102.1` | Saída da rede do laboratório |
 
 > As imagens abaixo são **ilustrações didáticas**. O aluno deve substituir pelas evidências reais do próprio laboratório.
 
