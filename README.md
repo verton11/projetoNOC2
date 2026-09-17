@@ -207,7 +207,8 @@ No `ZABBIX01`, MariaDB, Zabbix Server, frontend Apache/PHP e Agent 2 foram insta
 - Portas 80/10050/10051
 - Tela do frontend
 
-![Fase 07 — Zabbix Server](imagens/fase07-zabbix-server.png)
+![Fase 07 — Zabbix Server](imagens/zabbix04.jpg)
+![Fase 07 — Zabbix Server](imagens/zabbix05.jpg)
 
 ---
 
