@@ -253,7 +253,8 @@ Foram validados ICMP, HTTP, CPU, memória, disco, rede, uptime e a visão de Pro
 - CPU/memória/disco
 - Problems
 
-![Fase 09 — Monitoramento no Zabbix](imagens/fase09-monitoramento.png)
+![Fase 09 — Monitoramento no Zabbix](imagens/zabbix06.jpg)
+![Fase 09 — Monitoramento no Zabbix](imagens/zabbix07.jpg)
 
 ---
 
